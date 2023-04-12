@@ -1,0 +1,106 @@
+{
+  "vegetable": [
+    {
+      "id": 1,
+      "title": "Cabbage",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chou_1.jpg/440px-Chou_1.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 2,
+      "title": "Radish",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Radish_3371103037_4ab07db0bf_o.jpg/440px-Radish_3371103037_4ab07db0bf_o.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 3,
+      "title": "Carrot",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vegetable-Carrot-Bundle-wStalks.jpg/440px-Vegetable-Carrot-Bundle-wStalks.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 4,
+      "title": "Beetroot",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Detroitdarkredbeets.png/440px-Detroitdarkredbeets.png",
+      "category": "Vegetables"
+    },
+    {
+      "id": 5,
+      "title": "Green Bean",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Heaps_of_beans.jpg/610px-Heaps_of_beans.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 6,
+      "title": "Vicia faba",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Illustration_Vicia_faba1.jpg/440px-Illustration_Vicia_faba1.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 7,
+      "title": "Potato",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/440px-Patates.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 8,
+      "title": "Pea",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peas_in_pods_-_Studio.jpg/440px-Peas_in_pods_-_Studio.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 9,
+      "title": "Cucumber",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ARS_cucumber.jpg/440px-ARS_cucumber.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 10,
+      "title": "Tomato",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/440px-Tomato_je.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 11,
+      "title": "Pumpkin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cross_section_of_pumpkin.jpg/440px-Cross_section_of_pumpkin.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 12,
+      "title": "Garlic",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Allium_sativum_003.JPG/400px-Allium_sativum_003.JPG",
+      "category": "Vegetables"
+    },
+    {
+      "id": 1,
+      "title": "Cabbage",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chou_1.jpg/440px-Chou_1.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 13,
+      "title": "Sweet Potato",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ipomoea_batatas_006.JPG/440px-Ipomoea_batatas_006.JPG",
+      "category": "Vegetables"
+    },
+    {
+      "id": 14,
+      "title": "Spinach",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Spinacia_oleracea_Spinazie_bloeiend.jpg/440px-Spinacia_oleracea_Spinazie_bloeiend.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 15,
+      "title": "Onion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mixed_onions.jpg/440px-Mixed_onions.jpg",
+      "category": "Vegetables"
+    },
+    {
+      "id": 16,
+      "title": "Capsicum annuum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Capsicum_annuum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-027.jpg/440px-Capsicum_annuum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-027.jpg",
+      "category": "Vegetables"
+    }
+  ]
+}
